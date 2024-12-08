@@ -143,7 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\exp1\primenumbe.cpp" />
+    <ClCompile Include="src\exp1\SequentialList.cpp" />
+    <ClCompile Include="src\exp1\addtime.cpp" />
+    <ClCompile Include="src\exp2\linklist.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
